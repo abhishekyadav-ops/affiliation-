@@ -1,0 +1,2 @@
+requests>=2.31
+gspread>=6.0
